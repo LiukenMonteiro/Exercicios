@@ -19,8 +19,12 @@ person.addres = {
 }
 
 // console.log(person.addres.street);
-console.log(typeof(person));
-console.log(typeof(price));
+// console.log(typeof(person));
+// console.log(typeof(price));
 
 delete person.city;
-console.log(person);
+// console.log(person);
+
+for(let key in person){
+    console.log(person[key]);
+}
