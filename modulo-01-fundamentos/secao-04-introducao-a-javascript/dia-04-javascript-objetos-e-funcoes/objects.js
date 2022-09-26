@@ -18,4 +18,9 @@ person.addres = {
     other: 'Fundos',
 }
 
-console.log(person.addres.street);
+// console.log(person.addres.street);
+console.log(typeof(person));
+console.log(typeof(price));
+
+delete person.city;
+console.log(person);
