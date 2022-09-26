@@ -25,6 +25,11 @@ person.addres = {
 delete person.city;
 // console.log(person);
 
+// for(let key in person){
+//     console.log(person[key]);
+// }
+
 for(let key in person){
-    console.log(person[key]);
+    console.log(key, ':', person[key]);
 }
+
