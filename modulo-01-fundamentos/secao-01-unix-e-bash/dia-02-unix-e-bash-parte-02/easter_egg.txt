@@ -1,0 +1,13 @@
+ _____________________________________________ 
+( Thus spake the master programmer:           )
+(                                             )
+( "After three days without programming, life )
+( becomes meaningless."                       )
+(                                             )
+( -- Geoffrey James, "The Tao of Programming" )
+ --------------------------------------------- 
+        o   ^__^
+         o  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
