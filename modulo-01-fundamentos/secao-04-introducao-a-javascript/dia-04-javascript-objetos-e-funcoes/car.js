@@ -4,4 +4,6 @@ let car = {
   year: 2020
 };
 
-for (let name in names) {}
+for (let key in car) {
+  console.log(key + ': ' + car[key]);
+}
