@@ -20,5 +20,5 @@ switch(peao.toLowerCase()) {
 
     default:
       console.log('Esse movimento não existe');
-      
+         
   }
