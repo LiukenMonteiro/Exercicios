@@ -37,5 +37,5 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 4-4: [_JavaScript - Objetos e funções_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-04-introducao-a-javascript/dia-04-javascript-objetos-e-funcoes)
 - [x] 4-5: [_Projeto - Playground Functions_]
 
-##### Seção 5: [JavaScript: DOM, Eventos e Web Storage]()
-- [x] 5-1: [_JavaScript - DOM e seletores_]
+##### Seção 5: [JavaScript: DOM, Eventos e Web Storage](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-05-javascript-DOM-eventos-e-web-storage)
+- [x] 5-1: [_JavaScript - DOM e seletores_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-05-javascript-DOM-eventos-e-web-storage/dia-01-javascript-DOM-e-seletores)
