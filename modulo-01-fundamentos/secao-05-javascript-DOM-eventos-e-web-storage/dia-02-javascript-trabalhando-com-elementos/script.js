@@ -7,3 +7,5 @@ document.getElementById("elementoOndeVoceEsta").parentNode.firstElementChild.nex
 document.getElementById("pai").firstElementChild.nextElementSibling.nextElementSibling;
 
 
+
+document.querySelector("pai");
