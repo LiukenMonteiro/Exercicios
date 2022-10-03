@@ -6,8 +6,6 @@ document.getElementById("elementoOndeVoceEsta").parentNode.firstChild;
 document.getElementById("elementoOndeVoceEsta").parentNode.firstElementChild.nextElementSibling.nextElementSibling;
 document.getElementById("pai").firstElementChild.nextElementSibling.nextElementSibling;
 
-
-
 const pai = document.getElementById('pai');
 const irmaoElementoOndeVoceEsta = document.createElement("section");
 irmaoElementoOndeVoceEsta.id = 'irmaoElementoOndeVoceEsta';
