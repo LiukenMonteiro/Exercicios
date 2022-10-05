@@ -7,6 +7,8 @@ window.onload = function(){
     localStorage.setItem('5.4-background-color', selected.value)
     });
 
+    
+
     let inputFontSize = document.querySelector('input[name="font-size"]');
     inputFontSize.addEventListener('change', function(){
         let p = document.querySelector('p');
