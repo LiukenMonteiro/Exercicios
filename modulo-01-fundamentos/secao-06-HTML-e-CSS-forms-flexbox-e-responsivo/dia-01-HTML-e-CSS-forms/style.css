@@ -1,0 +1,48 @@
+body {
+    margin: 0px;
+    /* background-color: aquamarine; */
+    }
+
+form{
+    /* border: 1px solid red; */
+    background: #fff;
+    /* text-align: center; */
+    margin: 10px auto;
+    width: 450px;
+}
+
+
+h1{
+    text-align: center;
+    /* background: #fff; */
+    text-align: center;
+    margin: 10px auto;
+    width: 450px;
+}
+
+#nome-completo{
+    margin-top: 10px;
+    border: 2px solid black;
+}
+
+#input-email{
+    margin-top: 10px;
+    border: 2px solid black;;
+    margin-bottom: 10px;
+}
+
+#checkbox-noticias{
+    margin-top: 20px;
+}
+button{
+    margin: 10px;
+    text-transform: uppercase;
+    background-color: coral;
+    color:mintcream;
+    border-radius: 20px;
+    padding: 10px;
+}
+div{
+    text-align: center;
+
+}

@@ -5,16 +5,17 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>FORMULÁRIO</h1>
-    <form action="" method="GET" enctype="mulipart/forrm-data">
-        <label for="nome-completo">Nome Completo:
-            <input type="text" name="nome" id="come-completo" placeholder="Digite seu nome" required>
+   <h1>FORMULÁRIO</h1>
+    <form action="" method="GET" enctype="mulipart/form-data">
+       <label for="nome-completo">Nome Completo:
+            <input type="text" name="nome" id="nome-completo" placeholder="Digite seu nome" required>
         </label>
         <br>
-        <form action="" method="GET" enctype="mulipart/forrm-data">
-            <label for="inputt email">Email</label>:
+        <form action="" method="GET" enctype="mulipart/form-data">
+            <label for="input email">Email</label>:
                 <input type="email" name="email" id="input-email" placeholder="Digite seu email" required>
             </label>
             <br>
@@ -22,13 +23,14 @@
                 <select name="estado" id="input-estado">
                     <option value="sp">São Paulo</option>
                     <option value="mg">Minas Gerais</option>
-                    <option value="ap" selected>Amapá</option>
+                    <option value="ap">Amapá</option>
                     <option value="rs">Rio Grande do Sul</option>
+                    <option value="bs" selected>Brasilia</option>
                 </select>
             </label>
             <br>
             <p>Selecione sua foto</p>
-            <input type="file" name="foto" id="foto-perfil">
+            <input class="foto" type="file" name="foto" id="foto-perfil">
             <br>
             <p>Comidas favoritas</p>
         <label for="comida-1">
@@ -44,10 +46,10 @@
             <input type="radio" name="comida-favorita" id="comida-4" value="outro">Outro
         </label>
         <br>
-        <p>Escreva algo sobre você</p>
-        <textarea name="sobre-mmim" id="text-area-1" cols="30" rows="5"></textarea>
+        <p>Escreva algo sobre você:</p>
+        <textarea name="sobre-mim" id="text-area-1" cols="30" rows="5"></textarea>
         <br>
-        <p>Digitet sua senha:</p>
+        <p>Digite sua senha:</p>
         <label for="input-senha">
             <input type="password" name="senha" id="input-senha" required>
         </label>
@@ -56,7 +58,7 @@
             <input type="checkbox" name="promocoes" id="checkbox-noticias">Deseja receber noticias e promoções incríveis?
         </label>
         <br>
-        <button type="submitt">Enviar Formulário</button>
+        <button type="submit">Enviar Formulário</button>
     </form>
 </body>
 </html>
