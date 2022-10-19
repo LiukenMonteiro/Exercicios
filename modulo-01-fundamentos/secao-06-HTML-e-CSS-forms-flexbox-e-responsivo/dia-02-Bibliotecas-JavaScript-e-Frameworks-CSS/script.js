@@ -102,7 +102,7 @@ const validate = new JustValidate(
         errorMessage: 'O campo de data é obrigatório.',
       },
     ]);
-  
+
   window.onload = function() {
     const clearBtn = document.querySelector('#clear-btn');
     clearBtn.addEventListener('click', clearFields);
