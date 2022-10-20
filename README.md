@@ -39,3 +39,15 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 5: [JavaScript: DOM, Eventos e Web Storage](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-05-javascript-DOM-eventos-e-web-storage)
 - [x] 5-1: [_JavaScript - DOM e seletores_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-05-javascript-DOM-eventos-e-web-storage/dia-01-javascript-DOM-e-seletores)
+- [x] 5-2: [_JavaScript - Trabalhando com elementos_]()
+- [x] 5-3: [_JavaScript - Eventos_]()
+- [x] 5-4: [_JavaScript - Web Storage_]()
+- [x] 5-5: [_Projeto - Arte com Pixels_]()
+- [x] 5-6: [_Projeto Bônus_]()
+
+##### Seção 6: [HTML e CSS: Forms, Flexbox e Responsividade]()
+- [x] 6-1: [_HTML & CSS - Forms_]()
+- [x] 6-2: [_Bibliotecas JavaScript e Frameworks CSS_]()
+- [x] 6-3: [_CSS Flexbox - Parte 1_]()
+
+
