@@ -109,3 +109,4 @@ const validate = new JustValidate(
     const agreement = document.querySelector('#agreement');
     agreement.addEventListener('change', enableSubmit);
   };
+
