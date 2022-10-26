@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+<html>
+  
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Botão contador</title>
+</head>
+  
+<body style="text-align: center;">
+    <h1 style="color: red;">
+        Botão 
+        <!-- cor do do texto botão -->
+    </h1>
+    
+    <button id="btn">Clique aqui!</button>
+    <button id="btn2">Reset</button>
+    <!-- Botão com id de valor 'btn' -->
+  <p>Você clicou <span id="display">0</span> vezes </p>
+ <!-- Texto com o numero de vezes que o botão foi clicado -->
+    <script type="text/javascript">
+        let clickCount = 0;
+        let clickReset = 0;
+        // abre espaço para o numero de cliques
+        let btn = document.getElementById("btn");
+        let btn2 = document.getElementById("btn2");
+        // captura o botão de cliques
+        let disp = document.getElementById("display");
+        // captura o display que será atualizado
+
+        btn.addEventListener('click', () => { //função de evento click no botão
+            clickCount++; //a cada novo clique, o clickCount passa a ter mais 1 somado ao valor
+            disp.innerHTML = clickCount; //o valor de clickCount é adicionado ao display a cada novo clique
+        });
+        btn2.addEventListener('click', () => { //função de evento click no botão
+            clickCount = 0; //a cada novo clique, o clickCount passa a ter mais 1 somado ao valor
+            disp.innerHTML = '0'; //o valor de clickCount é adicionado ao display a cada novo clique
+        });
+    </script>
+</body>
+  
+</html>
