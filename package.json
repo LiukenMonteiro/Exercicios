@@ -1,0 +1,23 @@
+{
+  "name": "trybe-exercicios",
+  "version": "1.0.0",
+  "description": "Esse repositório contém todas as atividades de aprendizagem desenvolvidas por _[mim]()_ enquanto estudante da [Trybe](https://www.betrybe.com/) :rocket:",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiukenMonteiro/trtybe-exercicios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiukenMonteiro/trtybe-exercicios/issues"
+  },
+  "homepage": "https://github.com/LiukenMonteiro/trtybe-exercicios#readme",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
