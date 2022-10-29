@@ -8,7 +8,7 @@ const greetingMessage = (user) => {
   };
   
   const user = {
-    userName: "Joana",
+    userName: "Bob",
     password: 123456,
   };
   
