@@ -53,7 +53,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 6-5: [_CSS Responsivo - Mobile First_]()
 - [x] 6-6: [_Projeto - Trybewarts_]()
 
-##### Seção 6: [Introdução à Javascript e ES6 e Testes Unitários]()
+##### Seção 7: [Introdução à Javascript e ES6 e Testes Unitários]()
 - [x] 7-1: [_JavaScript ES6 - let, const, arrow functions e template literals_]()
 - [x] 7-2: [_JavaScript ES6 - Fluxo de exceção e Objetos_]()
 - [x] 7-3: [_Primeiros passos em Jest_]()
@@ -67,3 +67,5 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 8-5: [_JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_]()
 - [x] 8-6: [_Projeto - Zoo functions_]()
 
+## [Desenvolvimento FrontEnd]
+- [x] 1-1: [_Ambiente de desenvolvimento_]()
