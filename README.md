@@ -67,5 +67,5 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 8-5: [_JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_]()
 - [x] 8-6: [_Projeto - Zoo functions_]()
 
-## [Desenvolvimento FrontEnd]()
+## [Desenvolvimento FrontEnd](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-02-Front-End) :white_check_mark:
 - [x] 1-1: [_Ambiente de desenvolvimento_]()
