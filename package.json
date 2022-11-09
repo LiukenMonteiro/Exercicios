@@ -64,6 +64,7 @@
     "error-ex": "^1.3.2",
     "escalade": "^3.1.1",
     "escape-string-regexp": "^2.0.0",
+    "eslint-config-trybe-frontend": "^1.3.1",
     "esprima": "^4.0.1",
     "execa": "^5.1.1",
     "exit": "^0.1.2",
