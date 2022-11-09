@@ -8,15 +8,14 @@ const textoDeSaida = document.querySelector('#answer');
 const UUID_VERSION = 4;
 
 botao.addEventListener('click', (event) => {
-    event.preventDefault();
-
+  event.preventDefault();
 
 const campos = {
-    cpf: validator.isTaxID(campoDeTexto.value, 'pt-BR'),
-    hexColor: validator.isHexColor(campoDeTexto.value),
-    email: validator.isEmail(campoDeTexto.value),
-    uuid: validator.isUUID(campoDeTexto.value, UUID_VERSION),
-    url: validator.isURL(campoDeTexto.value),
+  cpf: validator.isTaxID(campoDeTexto.value, 'pt-BR'),
+  hexColor: validator.isHexColor(campoDeTexto.value),
+  email: validator.isEmail(campoDeTexto.value),
+  uuid: validator.isUUID(campoDeTexto.value, UUID_VERSION),
+  url: validator.isURL(campoDeTexto.value),
 };
 
 textoDeSaida.innerHTML = `A validação retornou ${campos[seletor.value]}`;
