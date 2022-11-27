@@ -53,5 +53,4 @@ randomPromise()
     })
     .finally(() => console.log(`Fim da execução.`));
 
-
     console.log("Hello World não assíncrono.");
