@@ -69,3 +69,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## [Desenvolvimento FrontEnd](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-02-Front-End) :white_check_mark:
 - [x] 1-1: [_Ambiente de desenvolvimento_]()
+- [x] 1-2: [_JavaScript Assíncrono - Promisses e fetch, fechado, item de menus com subitens_]()
+- [x] 1-3: [_Prática - Casa de câmbio_]()
+- [x] 1-4: [_Async, await e testes assíncronos_]()
+- [x] 1-5: [_Projeto - Carrinho de compras_]()
