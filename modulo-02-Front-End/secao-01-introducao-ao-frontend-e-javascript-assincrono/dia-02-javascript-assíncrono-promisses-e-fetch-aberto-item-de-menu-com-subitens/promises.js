@@ -25,7 +25,7 @@ const randomPromise = () =>
         } else {
             reject( new Error (`O número ${randomNumber} não é válido. somente números pares são válidos.`));
         }
-    }, 1000)
+    }, 3000)
 });
  
 // resolvedPromise()
