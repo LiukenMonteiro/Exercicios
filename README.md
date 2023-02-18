@@ -28,7 +28,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 3-2: [_HTML e CSS - Primeiros passos em CSS_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-03-introducao-a-html-e-css/dia-02-html-e-css-primeiros-passos-em-css)
 - [x] 3-3: [_HTML e CSS - Seletores e posicionamento_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-03-introducao-a-html-e-css/dia-03-html-e-css-seletores-e-posicionamento)
 - [x] 3-4: [_HTML Semântico_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-03-introducao-a-html-e-css/dia-04-html-semantico)
-- [x] 3-5: [_Projeto - Lessons Learned_]
+- [x] 3-5: [_Projeto - Lessons Learned_](https://github.com/LiukenMonteiro/Lessons-Learned)
 
 ##### Seção 4: [Introdução à JavaScript e Lógica de Programação]()
 - [x] 4-1: [_JavaScript - Primeiros passos_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-04-introducao-a-javascript/dia-01-javascript-primeiros-passos)
