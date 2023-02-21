@@ -12,18 +12,18 @@ class Botoes extends Component {
 
   constructor () {
     super();
-    this.clickedButtonOne = this.clickedButtonOne.bind(this);
+    this.clickedButtonOne = this.clickedButtonOne.bind(this); // capturo o estado inicial
     this.clickedButtonTwo = this.clickedButtonTwo.bind(this);
     this.clickedButtonThree = this.clickedButtonThree.bind(this);
     this.state = {
-      numberOfClickOne: 0,
+      numberOfClickOne: 0, // Dou um valor ao estado inicial
       numberOfClickTwo: 0,
       numberOfClickThree: 0,
     }
   }
 
   clickedButtonOne() {
-    this.setState((previousStateOne, _props) => ({
+    this.setState((previousStateOne, _props) => ({ // mudo e incremento o estado inicial
       numberOfClickOne: previousStateOne.numberOfClickOne + 1
     }))
     // console.log('clicked button one!', this);
@@ -41,7 +41,7 @@ class Botoes extends Component {
   // console.log('clicked button three!', this);
 }
   render() {
-    const { numberOfClickOne, numberOfClickTwo, numberOfClickThree } = this.state;
+    const { numberOfClickOne, numberOfClickTwo, numberOfClickThree } = this.state; // salvo o estado dentro de uma constante dentro do metodo render
     // console.log(this.state);
     return (
       <main>
