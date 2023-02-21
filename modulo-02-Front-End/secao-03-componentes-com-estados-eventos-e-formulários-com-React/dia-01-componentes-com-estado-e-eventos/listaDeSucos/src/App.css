@@ -1,0 +1,16 @@
+.card-container {
+  display: flex;
+  align-items: center;
+  width: 500px;
+  margin: auto;
+}
+
+.card-img-juice {
+  width: 150px;
+}
+
+.field-text {
+  padding: 20px;
+  width: 300px;
+  font-size: 1.5rem;
+}
