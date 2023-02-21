@@ -69,15 +69,15 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## [Desenvolvimento FrontEnd](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-02-Front-End) :white_check_mark:
 ##### Seção 1: [Introdução ao Frontend e JavaScript assíncrono]()
-- [x] 1-1: [_Ambiente de desenvolvimento_]()
-- [x] 1-2: [_JavaScript Assíncrono - Promisses e fetch, fechado, item de menus com subitens_]()
-- [x] 1-3: [_Prática - Casa de câmbio_]()
+- [x] 1-1: [_Ambiente de desenvolvimento_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-02-Front-End/secao-01-introducao-ao-frontend-e-javascript-assincrono/dia-01-ambiente-de-desenvolvimento)
+- [x] 1-2: [_JavaScript Assíncrono - Promisses e fetch, fechado, item de menus com subitens_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-02-Front-End/secao-01-introducao-ao-frontend-e-javascript-assincrono/dia-02-javascript-ass%C3%ADncrono-promisses-e-fetch-aberto-item-de-menu-com-subitens)
+- [x] 1-3: [_Prática - Casa de câmbio_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-02-Front-End/secao-01-introducao-ao-frontend-e-javascript-assincrono/dia-03-pratica-casa-de-cambio)
 - [x] 1-4: [_Async, await e testes assíncronos_]()
 - [x] 1-5: [_Projeto - Carrinho de compras_]()
 
 ##### Seção 2: [Introdução ao React]()
-- [x] 2-1: [_'Hello, world!' no React!_]()
-- [x] 2-2: [_Componentes React_]()
+- [x] 2-1: [_'Hello, world!' no React!_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-02-Front-End/secao-02-introducao-ao-React/dia-01-'Hello%2C%20world!'-no-React!)
+- [x] 2-2: [_Componentes React_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-02-Front-End/secao-02-introducao-ao-React/dia-02-componentes-React)
 - [x] 2-3: [_Projeto - Solar System_]()
 
 ##### Seção 3: [Componentes com estados, eventos e formulários com React]()
