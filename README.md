@@ -72,7 +72,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 1-1: [_Ambiente de desenvolvimento_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-02-Front-End/secao-01-introducao-ao-frontend-e-javascript-assincrono/dia-01-ambiente-de-desenvolvimento)
 - [x] 1-2: [_JavaScript Assíncrono - Promisses e fetch, fechado, item de menus com subitens_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-02-Front-End/secao-01-introducao-ao-frontend-e-javascript-assincrono/dia-02-javascript-ass%C3%ADncrono-promisses-e-fetch-aberto-item-de-menu-com-subitens)
 - [x] 1-3: [_Prática - Casa de câmbio_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-02-Front-End/secao-01-introducao-ao-frontend-e-javascript-assincrono/dia-03-pratica-casa-de-cambio)
-- [x] 1-4: [_Async, await e testes assíncronos_]()
+- [x] 1-4: [_Async, await e testes assíncronos_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-02-Front-End/secao-01-introducao-ao-frontend-e-javascript-assincrono/dia-04-async-await-e-testes-ass%C3%ADncronos)
 - [x] 1-5: [_Projeto - Carrinho de compras_]()
 
 ##### Seção 2: [Introdução ao React]()
@@ -81,6 +81,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 2-3: [_Projeto - Solar System_]()
 
 ##### Seção 3: [Componentes com estados, eventos e formulários com React]()
-- [x] 3-1: [_Componentes com estado e eventos_]()
+- [x] 3-1: [_Componentes com estado e eventos_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-02-Front-End/secao-03-componentes-com-estados-eventos-e-formul%C3%A1rios-com-React/dia-01-componentes-com-estado-e-eventos)
 - [] 3-2: [_Formulários no React_]()
 - [x] 3-3: [_Projeto - Tryunfo_]()
