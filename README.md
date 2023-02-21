@@ -81,6 +81,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 2-3: [_Projeto - Solar System_]()
 
 ##### Seção 3: [Componentes com estados, eventos e formulários com React]()
-- [] 3-1: [_Componentes com estado e eventos_]()
+- [x] 3-1: [_Componentes com estado e eventos_]()
 - [] 3-2: [_Formulários no React_]()
 - [x] 3-3: [_Projeto - Tryunfo_]()
