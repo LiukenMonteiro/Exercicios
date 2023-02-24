@@ -82,5 +82,5 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 3: [Componentes com estados, eventos e formulários com React]()
 - [x] 3-1: [_Componentes com estado e eventos_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-02-Front-End/secao-03-componentes-com-estados-eventos-e-formul%C3%A1rios-com-React/dia-01-componentes-com-estado-e-eventos)
-- [] 3-2: [_Formulários no React_]()
+- [x] 3-2: [_Formulários no React_]()
 - [x] 3-3: [_Projeto - Tryunfo_]()
