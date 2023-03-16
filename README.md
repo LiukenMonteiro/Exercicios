@@ -29,11 +29,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 3-4: [_JavaScript - Objetos e funções_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-03-introducao-a-javascript-e-logica-de-programacao/dia-04-javascript-objetos-e-funcoes)
 - [x] 3-5: [_Projeto - Playground Functions_]
 
-##### Seção 4: [JavaScript: DOM, Eventos e Web Storage](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-05-javascript-DOM-eventos-e-web-storage)
-- [x] 4-1: [_JavaScript - DOM e seletores_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-05-javascript-DOM-eventos-e-web-storage/dia-01-javascript-DOM-e-seletores)
-- [x] 4-2: [_JavaScript - Trabalhando com elementos_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-05-javascript-DOM-eventos-e-web-storage/dia-02-javascript-trabalhando-com-elementos)
-- [x] 4-3: [_JavaScript - Eventos_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-05-javascript-DOM-eventos-e-web-storage/dia-03-javascrip-eventos)
-- [x] 4-4: [_JavaScript - Web Storage_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-05-javascript-DOM-eventos-e-web-storage/dia-04-web-storage)
+##### Seção 4: [JavaScript: DOM, Eventos e Web Storage](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-04-javascript-DOM-eventos-e-web-storage)
+- [x] 4-1: [_JavaScript - DOM e seletores_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-04-javascript-DOM-eventos-e-web-storage/dia-01-javascript-DOM-e-seletores)
+- [x] 4-2: [_JavaScript - Trabalhando com elementos_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-04-javascript-DOM-eventos-e-web-storage/dia-02-javascript-trabalhando-com-elementos)
+- [x] 4-3: [_JavaScript - Eventos_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-04-javascript-DOM-eventos-e-web-storage/dia-03-javascrip-eventos)
+- [x] 4-4: [_JavaScript - Web Storage_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-04-javascript-DOM-eventos-e-web-storage/dia-04-web-storage)
 - [x] 4-5: [_Projeto - Arte com Pixels_]()
 - [x] 4-6: [_Projeto Bônus_]()
 
