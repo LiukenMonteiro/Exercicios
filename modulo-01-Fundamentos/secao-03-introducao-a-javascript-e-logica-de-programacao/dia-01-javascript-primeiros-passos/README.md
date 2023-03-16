@@ -1,4 +1,4 @@
-# 4.1 JavaScript - Primeiros passos
+# 3.1 JavaScript - Primeiros passos
 
 ## :rocket: Para fixar - Variáveis
 

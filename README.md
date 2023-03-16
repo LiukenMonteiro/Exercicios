@@ -6,7 +6,7 @@ Esse repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de _software, front-end, back-end_, ciência da computação, engenharia de _software_, metodologias ágeis e habilidades comportamentais.
 
-## [Fundamentos do Desenvolvimento Web](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-fundamentos) :white_check_mark:
+## [Fundamentos do Desenvolvimento Web](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos) :white_check_mark:
 
 ##### Seção 1: [Introdução - Unix, Shell e Git](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-01-Unix-Shell-e-Git)
 

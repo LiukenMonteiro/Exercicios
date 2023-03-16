@@ -1,4 +1,4 @@
-# 2.1 Git - O que é e para que serve
+# 1.3 Git - O que é e para que serve
 
 ### Criando um repositório
 

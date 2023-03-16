@@ -1,4 +1,4 @@
-# 4.4 JavaScript - Objetos e funções
+# 3.4 JavaScript - Objetos e funções
 
 ## Para fixar - Objetos
 

@@ -1,3 +1,3 @@
-# SEÇÃO 4 - Introdução à JavaScrpt.
+# SEÇÃO 4 - Introdução à JavaScript.
 
 Nessa seção aprendi sobre JavaScript.

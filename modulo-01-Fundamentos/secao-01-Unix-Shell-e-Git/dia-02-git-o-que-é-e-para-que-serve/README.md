@@ -1,4 +1,4 @@
-# 2.2 Git e GitHub - Entendendo os comandos
+# 1.2 Git e GitHub - Entendendo os comandos
 
 ### Repositório de exercícios no **_GitHub_**
 

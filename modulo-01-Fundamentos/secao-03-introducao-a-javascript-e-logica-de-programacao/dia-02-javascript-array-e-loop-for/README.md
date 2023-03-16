@@ -1,4 +1,4 @@
-# 4.2 JavaScript - Array e loop For
+# 3.2 JavaScript - Array e loop For
 
 ## Para fixar - Array (listas)
 

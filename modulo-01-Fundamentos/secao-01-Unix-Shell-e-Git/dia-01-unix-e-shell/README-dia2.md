@@ -1,4 +1,4 @@
-# 1.2 Unix & Bash - Parte 2
+# 1.1 Unix & Bash - Parte 2
 
 ### Parte I - Comandos de Input e Output
 

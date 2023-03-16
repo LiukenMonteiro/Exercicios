@@ -1,4 +1,4 @@
-# 3.2 HTML e CSS - Primeiros passos em CSS
+# 2.2 HTML e CSS - Primeiros passos em CSS
 
 #### Para fixar - Introdução
 

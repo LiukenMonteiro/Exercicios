@@ -1,4 +1,4 @@
-# 4.3 JavaScript - Lógica de Programação e Algoritmos
+# 3.3 JavaScript - Lógica de Programação e Algoritmos
 
 ## Aprofunde seus conhecimentos
 

@@ -1,4 +1,4 @@
-# 3.3 HTML e CSS - Seletores e posicionamento
+# 2.3 HTML e CSS - Seletores e posicionamento
 
 #### Para fixar - Visualizando o Box Model na prática
 
