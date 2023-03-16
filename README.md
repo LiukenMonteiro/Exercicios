@@ -14,12 +14,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 1-2: [_Git - O que é  para que serve_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-01-Unix-Shell-e-Git/dia-02-git-o-que-%C3%A9-e-para-que-serve)
 - [x] 1-3: [_Git e Github - Entendendo os comandos_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-01-Unix-Shell-e-Git/dia-03-git-e-github-entendendo-os-comandos)
 
-##### Seção 2: [Introdução à HTML e CSS](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-03-introducao-a-html-e-css)
+##### Seção 2: [Introdução à HTML e CSS](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-02-introducao-a-html-e-css)
 
-- [x] 2-1: [_HTML e CSS - Estruturas de página_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-03-introducao-a-html-e-css/dia-01-html-e-css-estruturas-de-pagina)
-- [x] 2-2: [_HTML e CSS - Primeiros passos em CSS_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-03-introducao-a-html-e-css/dia-02-html-e-css-primeiros-passos-em-css)
-- [x] 2-3: [_HTML e CSS - Seletores e posicionamento_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-03-introducao-a-html-e-css/dia-03-html-e-css-seletores-e-posicionamento)
-- [x] 2-4: [_HTML Semântico_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-03-introducao-a-html-e-css/dia-04-html-semantico)
+- [x] 2-1: [_HTML e CSS - Estruturas de página_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-02-introducao-a-html-e-css/dia-01-html-e-css-estruturas-de-pagina)
+- [x] 2-2: [_HTML e CSS - Primeiros passos em CSS_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-02-introducao-a-html-e-css/dia-02-html-e-css-primeiros-passos-em-css)
+- [x] 2-3: [_HTML e CSS - Seletores e posicionamento_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-02-introducao-a-html-e-css/dia-03-html-e-css-seletores-e-posicionamento)
+- [x] 2-4: [_HTML Semântico_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-02-introducao-a-html-e-css/dia-04-html-semantico)
 - [x] 2-5: [_Projeto - Lessons Learned_](https://github.com/LiukenMonteiro/Lessons-Learned)
 
 ##### Seção 3: [Introdução à JavaScript e Lógica de Programação](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-04-introducao-a-javascript)
