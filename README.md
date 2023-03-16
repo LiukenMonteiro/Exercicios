@@ -30,7 +30,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 3-4: [_HTML Semântico_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-03-introducao-a-html-e-css/dia-04-html-semantico)
 - [x] 3-5: [_Projeto - Lessons Learned_](https://github.com/LiukenMonteiro/Lessons-Learned)
 
-##### Seção 4: [Introdução à JavaScript e Lógica de Programação]()
+##### Seção 4: [Introdução à JavaScript e Lógica de Programação](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-04-introducao-a-javascript)
 - [x] 4-1: [_JavaScript - Primeiros passos_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-04-introducao-a-javascript/dia-01-javascript-primeiros-passos)
 - [x] 4-2: [_JavaScript - Array e loop For_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-04-introducao-a-javascript/dia-02-javascript-array-e-loop-for)
 - [x] 4-3: [_JavaScript - Lógica de Programação e Algoritmos_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-04-introducao-a-javascript/dia-03-javascript-logica-de-programacao-e-algoritmos)
