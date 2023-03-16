@@ -45,19 +45,19 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 5-5: [_CSS Responsivo - Mobile First_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-05-HTML-e-CSS-forms-flexbox-e-responsivo/dia-05-CSS-Responsivo-Mobile-First)
 - [x] 5-6: [_Projeto - Trybewarts_]
 
-##### Seção 6: [Introdução à Javascript e ES6 e Testes Unitários]()
-- [x] 6-1: [_JavaScript ES6 - let, const, arrow functions e template literals_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-07-Introducao-%C3%A0-javascript-ES6-e-Testes-Unitarios/dia-01-javascript-ES6-let-const-arrow-functions)
-- [x] 6-2: [_JavaScript ES6 - Fluxo de exceção e Objetos_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-07-Introducao-%C3%A0-javascript-ES6-e-Testes-Unitarios/dia-02-javascript-ES6-fluxo-de-execu%C3%A7%C3%A3o-e-objetos)
-- [x] 6-3: [_Primeiros passos em Jest_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-07-Introducao-%C3%A0-javascript-ES6-e-Testes-Unitarios/dia-03-primeiros-passos-em-jest)
-- [x] 6-4: [_Projeto - JavaScript Testes Unitários_]()
+##### Seção 6: [Introdução à Javascript e ES6 e Testes Unitários](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-06-Introducao-%C3%A0-javascript-ES6-e-Testes-Unitarios)
+- [x] 6-1: [_JavaScript ES6 - let, const, arrow functions e template literals_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-06-Introducao-%C3%A0-javascript-ES6-e-Testes-Unitarios/dia-01-javascript-ES6-let-const-arrow-functions)
+- [x] 6-2: [_JavaScript ES6 - Fluxo de exceção e Objetos_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-06-Introducao-%C3%A0-javascript-ES6-e-Testes-Unitarios/dia-02-javascript-ES6-fluxo-de-execu%C3%A7%C3%A3o-e-objetos)
+- [x] 6-3: [_Primeiros passos em Jest_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-06-Introducao-%C3%A0-javascript-ES6-e-Testes-Unitarios/dia-03-primeiros-passos-em-jest)
+- [x] 6-4: [_Projeto - JavaScript Testes Unitários_]
 
-##### Seção 7: [Higher Order Functions do JavaScript ES6]()
-- [x] 7-1: [_JavaScript ES6 - Introdução a Higher Order Functions_]()
-- [x] 7-2: [_JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_]()
-- [x] 7-3: [_JavaScript ES6 - Higher Order Functions - map e filter_]()
-- [x] 7-4: [_JavaScript ES6 - Higher Order Functions - reduce_]()
-- [x] 7-5: [_JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_]()
-- [x] 7-6: [_Projeto - Zoo functions_]()
+##### Seção 7: [Higher Order Functions do JavaScript ES6](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-07-Higher-Order-Functions-do-javascript-ES6)
+- [x] 7-1: [_JavaScript ES6 - Introdução a Higher Order Functions_]
+- [x] 7-2: [_JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_]
+- [x] 7-3: [_JavaScript ES6 - Higher Order Functions - map e filter_]
+- [x] 7-4: [_JavaScript ES6 - Higher Order Functions - reduce_]
+- [x] 7-5: [_JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_]
+- [x] 7-6: [_Projeto - Zoo functions_]
 
 ## [Desenvolvimento FrontEnd](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-02-Front-End) :white_check_mark:
 ##### Seção 1: [Introdução ao Frontend e JavaScript assíncrono]()
