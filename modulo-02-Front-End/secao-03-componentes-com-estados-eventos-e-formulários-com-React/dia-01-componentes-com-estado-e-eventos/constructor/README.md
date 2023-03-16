@@ -1,1 +1,0 @@
-### Aprendendo sobre This, Bind e Constructor
