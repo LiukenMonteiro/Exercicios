@@ -34,16 +34,16 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 4-2: [_JavaScript - Trabalhando com elementos_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-04-javascript-DOM-eventos-e-web-storage/dia-02-javascript-trabalhando-com-elementos)
 - [x] 4-3: [_JavaScript - Eventos_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-04-javascript-DOM-eventos-e-web-storage/dia-03-javascrip-eventos)
 - [x] 4-4: [_JavaScript - Web Storage_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-04-javascript-DOM-eventos-e-web-storage/dia-04-web-storage)
-- [x] 4-5: [_Projeto - Arte com Pixels_]()
-- [x] 4-6: [_Projeto Bônus_]()
+- [x] 4-5: [_Projeto - Arte com Pixels_]
+- [x] 4-6: [_Projeto Bônus_]
 
-##### Seção 5: [HTML e CSS: Forms, Flexbox e Responsividade]()
-- [x] 5-1: [_HTML & CSS - Forms_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-06-HTML-e-CSS-forms-flexbox-e-responsivo/dia-01-HTML-e-CSS-forms)
-- [x] 5-2: [_Bibliotecas JavaScript e Frameworks CSS_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-06-HTML-e-CSS-forms-flexbox-e-responsivo/dia-02-Bibliotecas-JavaScript-e-Frameworks-CSS)
-- [x] 5-3: [_CSS Flexbox - Parte 1_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-06-HTML-e-CSS-forms-flexbox-e-responsivo/dia-03-CS-flexbox-parte-01)
-- [x] 5-4: [_CSS Flexbox - Parte 2_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-06-HTML-e-CSS-forms-flexbox-e-responsivo/dia-04-CSS-flexbox-parte-02)
-- [x] 5-5: [_CSS Responsivo - Mobile First_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-06-HTML-e-CSS-forms-flexbox-e-responsivo/dia-05-CSS-Responsivo-Mobile-First)
-- [x] 5-6: [_Projeto - Trybewarts_]()
+##### Seção 5: [HTML e CSS: Forms, Flexbox e Responsividade](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-05-HTML-e-CSS-forms-flexbox-e-responsivo)
+- [x] 5-1: [_HTML & CSS - Forms_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-05-HTML-e-CSS-forms-flexbox-e-responsivo/dia-01-HTML-e-CSS-forms)
+- [x] 5-2: [_Bibliotecas JavaScript e Frameworks CSS_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-05-HTML-e-CSS-forms-flexbox-e-responsivo/dia-02-Bibliotecas-JavaScript-e-Frameworks-CSS)
+- [x] 5-3: [_CSS Flexbox - Parte 1_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-05-HTML-e-CSS-forms-flexbox-e-responsivo/dia-03-CS-flexbox-parte-01)
+- [x] 5-4: [_CSS Flexbox - Parte 2_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-05-HTML-e-CSS-forms-flexbox-e-responsivo/dia-04-CSS-flexbox-parte-02)
+- [x] 5-5: [_CSS Responsivo - Mobile First_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-05-HTML-e-CSS-forms-flexbox-e-responsivo/dia-05-CSS-Responsivo-Mobile-First)
+- [x] 5-6: [_Projeto - Trybewarts_]
 
 ##### Seção 6: [Introdução à Javascript e ES6 e Testes Unitários]()
 - [x] 6-1: [_JavaScript ES6 - let, const, arrow functions e template literals_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-07-Introducao-%C3%A0-javascript-ES6-e-Testes-Unitarios/dia-01-javascript-ES6-let-const-arrow-functions)
