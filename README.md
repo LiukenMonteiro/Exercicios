@@ -11,8 +11,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Seção 1: [Introdução - Unix, Shell e Git](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-01-Unix-Shell-e-Git)
 
 - [x] 1-1: [_Unix, Shell e Git_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-01-Unix-Shell-e-Git/dia-01-unix-e-bash-parte-01)
-- [x] 1-2: [_Git - O que é  para que serve_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-01-Unix-Shell-e-Git/dia-02-git-e-github-entendendo-os-comandos)
-- [x] 1-3: [_Git e Github - Entendendo os comandos_]()
+- [x] 1-2: [_Git - O que é  para que serve_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-01-Unix-Shell-e-Git/dia-02-git-o-que-%C3%A9-e-para-que-serve)
+- [x] 1-3: [_Git e Github - Entendendo os comandos_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-Fundamentos/secao-01-Unix-Shell-e-Git/dia-03-git-e-github-entendendo-os-comandos)
 
 ##### Seção 2: [Introdução à HTML e CSS](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-fundamentos/secao-03-introducao-a-html-e-css)
 
