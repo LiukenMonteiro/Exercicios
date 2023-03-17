@@ -1,0 +1,64 @@
+docker <comando> <subcomando> <parâmetros> é o formato padrão para comandos não-abreviados no CLI;
+
+Utilize o parâmetro --help no <comando> ou <subcomando> para ter a relação completa do que pode ser executado a partir deles;
+
+Exemplo: docker container --help ou docker container run --help.
+Os <parâmetros> são opcionais na execução dos comandos;
+
+docker images = para visualizar todas as imagens Docker que já estão presentes em sua máquina.
+
+docker container ls = para listar todos os containers em execução neste momento em sua máquina.
+
+docker container ls -a ( ou ps -a )= Para visualizar todos os containers atuais, incluindo os que estão em execução e também parados
+
+Utilize o comando docker container run <flags>? <imagem>:<tag> <argumentos>? para executar um container utilizando a imagem identificada pelo <imagem>:<tag>.
+===============================================================================================================
+Revisão dos conceitos
+Quanta coisa nova sobre Docker em apenas um dia de conteúdo!
+
+Para te ajudar, vamos revisar todos os nomes e conceitos que aprendemos hoje:
+
+Docker: conjunto de ferramentas (Daemon, API, CLI) para gerenciar imagens e containers.
+
+Arquivo Dockerfile: arquivo com linguagem própria, com os passos necessários para criar uma nova imagem Docker usando o código-fonte de um projeto.
+
+Imagem Docker: é o projeto “compactado”, que foi construído de acordo com os passos contidos no arquivo Dockerfile. Pode ser usado como base para criar novas imagens Docker.
+
+Container: é a execução de projeto através da sua imagem Docker já construída anteriormente.
+
+Registry: é o local remoto onde podemos enviar e baixar imagens Docker. Um registry pode ser público ou privado.
+
+Docker Hub:
+
+É o registry oficial da empresa Docker Inc.
+Ele é público, porém possui alguns limites.
+É possível assinar o serviço para utilizá-lo como registry privado.
+===============================================================================================================
+Docker + comando + subcomando + parâmetr + versionamento(não obrigatório)
+
+docker --help = para ajuda.
+docker rm = apaga containers
+docker rmi = apaga imagens
+docker container run --rm -d = run executa > --rm apaga logo depois de executado > -d faz com que a execução do container ocorra em segundo plano.
+docker stop <nome_do_container> = para o processo gentilmente.
+docker stop -t 0 = mata o processo.
+docker logs meu-container = traz informações sobre o container.
+docker top = informações sobre os processos que estão rodando dentro do container.
+data = extraí informação de data
+exec = testa acesso ao terminal.
+-t = solicita a criação de uma sessão de terminal.
+-i = necessária para que a sessão seja interativa.
+ps aux = obtém a lista de processos
+sh = permite simular um acesso de terminal dentro do container que já está em execução
+exit = para sair do terminal do container
+docker stop = para forçar a parada de execução do container.
+docker container ps = mostra processos ativos.
+docker container ps -l = mostra o último processo executado.
+docker ps -a = validando se já não existem mais nenhum container na máquina.
+docker container prune = remove todos os containers inativos do seu computador.
+docker container start + id = reinicia o container.
+docker container rm -f = remover container em execução.
+
+
+
+Bônus: andrius/ascii-patrol
