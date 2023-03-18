@@ -1,0 +1,17 @@
+FROM httpd:2.4.54
+#chama imagem já existente, na qual se baseia. 
+COPY index.html /usr/local/apache2/htdocs/
+#copia arquivo do computador local e o coloca dentro de uma imagem, especificada no caminho.
+#Este caminho específico é onde o httpd vai procurar por arquivos HTML a serem servidos.
+EXPOSE 80
+#Indica que a imagem poderá reecbr conexões pela porta 80, que a porta padrão utilizada pelo httpd
+CMD ["httpd-foreground"]
+#Especifica que o programa seja exeecutado ao iniciar essa imageem como um container.
+
+
+#Agora, podemos executar nossa imagem como um novo container e acessar este servidor web através do nosso navegador! Vamos testar?
+
+
+# Alternativamente pode-se utilizar o comando ADD index.html /usr/local/apache2/htdocs. Nesse caso, não mudaria nada, mas o comando ADD tem duas funcionalidades interessantes, tais como:
+#Fazer o download do conteúdo de uma URL \<src> na pasta de destino \<dest>
+#Descompactar automaticamente arquivos compactados de formatos reconhecidos (.tar, .gzip, .bzip2, etc)
