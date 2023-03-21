@@ -1,3 +1,3 @@
 FROM chuanwen/cowsay:latest
 ENTRYPOINT [ "/usr/games/cowsay" ]
-CMD [ "#VQV Trybe"]
+CMD [ "Exercicios de fixação - Liuken Monteiro"]
