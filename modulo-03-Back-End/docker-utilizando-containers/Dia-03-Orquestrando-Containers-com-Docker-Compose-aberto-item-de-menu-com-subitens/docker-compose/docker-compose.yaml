@@ -1,0 +1,37 @@
+version: '3'
+services:
+  frontend:
+    build: frontend/  # Especificamos o contexto, ou seja, a pasta onde está o Dockerfile.
+    restart: on-failure #reinicialização no caso de algum erro
+    ports: #porta do docker ligada a porta da minha máquina
+      - 3000:3000
+    depends_on: #dependências de inicialização
+      - backend
+  backend:
+    build: backend/  # Mesmo caso aqui.
+    restart: on-failure #reinicialização no caso de algum erro
+    ports: #porta do docker ligada a porta da minha máquina
+      - 3001:3001 
+    environment: #chave variável de ambiente
+      - DB_HOST=database 
+    depends_on: #dependências de inicialização
+      - database 
+  database: 
+    image: betrybe/docker-compose-example-database:v1 # Especificamos a Imagem Docker diretamente.
+    restart: on-failure #reinicialização no caso de algum erro
+
+
+
+
+#1️⃣ image: especifica uma imagem Docker pronta, seja local ou a ser baixada no Docker Hub;
+
+#2️⃣ build: especifica a pasta contendo um arquivo Dockerfile a partir do qual o Compose vai executar o comando docker build automaticamente.
+
+
+#docker-compose ps = mostra o status dos serviços.
+#docker-compose up -d = sobe os serviços.
+#docker-compose up -d --build = rescontroi imagens.
+#docker-compose down = derruba os serviços.
+#docker-compose logs = para ver logs da execução.
+#docker-compose logs -f = para ver logs da execução em tempo real.
+#docker-compose logs --tail 5 = para ver logs da execuçã, limitando número de linhas à 5.
