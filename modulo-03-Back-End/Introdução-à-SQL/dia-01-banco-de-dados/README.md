@@ -1,0 +1,1 @@
+# Prmeiro dia estudando banco de dados na Trybe!
