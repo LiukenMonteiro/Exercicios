@@ -1,0 +1,1 @@
+### Estudos sobre SQL funções, JOINs e Normalização.

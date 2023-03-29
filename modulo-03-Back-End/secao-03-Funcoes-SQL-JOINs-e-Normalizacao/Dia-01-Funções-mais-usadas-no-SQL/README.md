@@ -1,0 +1,1 @@
+# Primeiro dia sobre funções no Sql, Joins e normalização.

@@ -1,0 +1,72 @@
+Condicionais
+
+Em linguagens de alto nível, tais como: Python e JavaScript, as condicionais são a base para a criação de algoritmos dinâmicos que se adaptam de acordo com a necessidade do programa. Nesse quesito, o SQL não fica para trás, sendo também possível usar nele os principais comandos de controle de fluxo, como o IF e o CASE.
+
+SELECT IF(condicao, valor_se_verdadeiro, valor_se_falso);
+
+ex:
+SELECT * FROM sakila.film;
+
+SELECT title, IF (rental_rate > 0.99, 'CARO', 'BARATO')
+FROM sakila.film;
+
+====================================================================================================
+
+Em situações em que é preciso comparar mais de uma condição, é preferível utilizar o CASE.
+
+SELECT CASE
+  WHEN condicao THEN valor
+  ELSE valor padrao
+END;
+
+ex com case:
+SELECT title, rental_rate,
+	CASE
+		WHEN rental_rate = 0.99 THEN 'BARATO'
+        WHEN rental_rate = 2.99 THEN 'MÉDIO'
+        WHEN rental_rate = 4.99 THEN 'CARO'
+	ELSE rental_rate = 'NÃO CLASSIFICADO'
+END AS valor
+FROM sakila.film
+LIMIT 10;
+
+ex:
+SELECT
+    nome,
+    nivel_acesso,
+    CASE
+        WHEN nivel_acesso = 1 THEN 'Nível de acesso 1'
+        WHEN nivel_acesso = 2 THEN 'Nível de acesso 2'
+        WHEN nivel_acesso = 3 THEN 'Nível de acesso 3'
+        ELSE 'Usuário sem acesso'
+    END AS nivel_acesso
+FROM permissoes_usuario;
+
+ex:
+-- Exemplo utilizando a tabela sakila.film:
+SELECT
+    first_name,
+    email,
+    CASE
+        WHEN email = 'MARY.SMITH@sakilacustomer.org' THEN 'Cliente de baixo valor'
+        WHEN email = 'PATRICIA.JOHNSON@sakilacustomer.org' THEN 'Cliente de médio valor'
+        WHEN email = 'LINDA.WILLIAMS@sakilacustomer.org' THEN 'Cliente de alto valor'
+        ELSE 'não classificado'
+    END AS valor
+FROM sakila.customer
+LIMIT 10;
+
+SELECT * FROM sakila.film;
+
+SELECT 
+	title,
+	rating,
+	CASE
+		WHEN rating = 'G' THEN  'Livre para todos'
+		WHEN rating = 'PG' THEN  'Não recomendado para menores de 10 anos'
+        WHEN rating = 'PG-13' THEN 'Não recomendado para menores de 13 anos'
+        WHEN rating = 'R' THEN 'Não recomendado para menores de 17 anos'
+        ELSE 'Proibido para menores de idade'
+	END AS 'público-alvo'
+FROM sakila.film;
+        
