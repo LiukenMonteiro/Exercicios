@@ -1,0 +1,10 @@
+Módulos internos
+Os módulos internos (ou core modules) são inclusos no Node.js e instalados junto com ele quando baixamos o runtime. Alguns exemplos de core modules são:
+
+fs: fornece uma API para interagir com o sistema de arquivos de forma geral;
+
+url: provê utilitários para ler e manipular URLs;
+
+util: oferece ferramentas e funcionalidades comumente úteis a pessoas programadoras.
+
+os: oferece ferramentas e funcionalidades relacionadas ao sistema operacional.
