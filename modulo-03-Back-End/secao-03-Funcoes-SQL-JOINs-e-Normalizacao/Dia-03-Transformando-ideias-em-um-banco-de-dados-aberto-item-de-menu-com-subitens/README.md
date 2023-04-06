@@ -1,0 +1,1 @@
+# Terceiro dia de estudos sobre MySql.
