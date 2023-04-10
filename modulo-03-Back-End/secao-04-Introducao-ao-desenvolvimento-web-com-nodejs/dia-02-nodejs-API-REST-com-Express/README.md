@@ -18,3 +18,7 @@ NGINX;
 Apache Tomcat;
 Node.js; (Vamos focar neste).
 Quando começamos a falar ou pesquisar mais sobre o Node.js ou node, para os íntimos 😁, alguns nomes como o já conhecido npm (node package manager) e o tal do Express também começam a surgir! 
+
+INSTALANDO O EXPRESS NA APLICAÇÃO:
+
+npm i express@4.17.1 --save-exact
